@@ -1,0 +1,236 @@
+* {
+  scroll-behavior: smooth;
+}
+
+.align-self-start {
+  align-self: flex-start !important;
+}
+
+.slick-prev:before,
+.slick-next:before,
+.slick-track:before,
+.slick-track:after {
+  color: #28a19c !important;
+}
+
+.slick-next:before {
+  content: "" !important;
+}
+
+.slick-prev:before {
+  content: "" !important;
+}
+
+.slider-style {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin: 5px; */
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.slick-initialized .slick-slide {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  cursor: pointer !important;
+}
+
+.slick-track {
+  position: relative !important;
+  left: 0 !important;
+  top: 0 !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.slick-arrow.slick-hidden {
+  display: none !important;
+}
+
+.slick-list {
+  position: relative !important;
+  overflow: hidden !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.slick-next {
+  right: -10px !important;
+}
+
+.slick-prev {
+  left: -10px !important;
+}
+
+.slick-prev,
+.slick-next {
+  z-index: 10000 !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .slick-next {
+    /* right: 421px !important */
+  }
+
+  .slick-prev {
+    /* left: 427px !important; */
+  }
+}
+
+@media only screen and(min-width:601px) and (max-width: 900px) {
+  .slick-next {
+    right: 227px !important;
+  }
+
+  .slick-prev {
+    left: 227px !important;
+  }
+}
+
+@media only screen and (min-width: 901px) and (max-width: 1280px) {
+  .slick-next {
+    right: 140px !important;
+  }
+
+  .slick-prev {
+    left: 140px !important;
+  }
+}
+@media only screen and (min-width: 1281px) and (max-width: 1366px) {
+  .slick-next {
+    right: 140px !important;
+  }
+
+  .slick-prev {
+    left: 140px !important;
+  }
+}
+
+.Mui-active {
+  border-radius: 8px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: white;
+}
+
+.clients-imgs-height {
+  height: 55.7px !important;
+}
+
+.slick-disabled {
+  cursor: no-drop;
+}
+
+.cartImgSize {
+  /* width: 272px; */
+  height: 251px;
+}
+
+.slick-disabled {
+  opacity: 0.4 !important;
+}
+
+.CertificatesCard-img {
+  border-radius: 13.3px 13.3px 0 0;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.cardImg {
+  border-radius: 20px 20px 0 0;
+  min-height: 170px;
+}
+
+.card-details {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.css-heg063-MuiTabs-flexContainer {
+  justify-content: space-between;
+}
+
+.slick-slide > div {
+  display: grid;
+  place-items: center;
+  margin: 6px auto;
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1920px) {
+  .css-1qgmje8-MuiTabs-indicator,
+  .css-d7k229-MuiButtonBase-root-MuiTab-root {
+    width: 184px !important;
+  }
+}
+
+.css-fjdz66-MuiLinearProgress-bar1 {
+  background-color: #f7b52e !important;
+}
+
+/* iframe[Attributes Style] {
+    
+} */
+
+/* .player-8b81ac23-9056-4a89-a23e-9ccaa9f8b38b, .player-8b81ac23-9056-4a89-a23e-9ccaa9f8b38b .vp-video-wrapper,
+.player .vp-video-wrapper.transparent,
+.player .vp-target , */
+iframe {
+  width: 100% !important;
+  max-height: 225px !important;
+  border-radius: 20px 20px 0 0 !important;
+}
+
+/* .player.hide-controls-mode {
+    width: 389px !important;
+    height: 261px !important;
+    border-radius: 20px 20px 0 0 !important;
+} */
+
+.courses-details-img {
+  clip-path: polygon(56% 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+/* .test { */
+/* width: 100px;
+    height: 100px; */
+/* border-top: solid 190px #28A19C;
+    border-left: solid 190px #28A19C;
+    border-right: solid 190px transparent;
+    border-bottom: solid 190px transparent; */
+
+/* } */
+
+
+/* ===========Quiz =========== */
+.checkboxInputCheck:checked {
+  background-color: #28A19C;
+  border-color: #28A19C;
+}
+
+.checkboxInput {
+  appearance: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #999;
+  transition: 0.2s all linear;
+  margin-right: 5px;
+
+}
+
+/* ================================ */
+.coursesListSlider .slick-next {
+  right: 47.5% !important;
+    top: 514px;
+}
+.coursesListSlider .slick-prev {
+  left: 47.5% !important;
+    top: 514px;
+}

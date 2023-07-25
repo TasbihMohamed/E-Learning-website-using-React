@@ -1,0 +1,1171 @@
+{
+   "filterCategory" :[
+        {
+          "name": "Topic",
+          "types": [
+            { "title": "Graphic Design" },
+            { "title": "User Experience Design" },
+            { "title": "G3D Motion" },
+            { "title": "Art" }
+          ]
+        },
+        {
+          "name": "Level",
+          "types": [
+            { "title": "1st" },
+            { "title": "2nd " },
+            { "title": "3rd" },
+            { "title": "4th" }
+          ]
+        },
+        {
+          "name": "Language",
+          "types": [{ "title": "en" }, { "title": "arabic" }]
+        },
+        {
+          "name": "Rating",
+          "types": [
+            { "title": "from best to worriest" },
+            { "title": "from worriest to best " }
+          ]
+        },
+        {
+          "name": "Pricing",
+          "types": [{ "title": "Lowest" }, { "title": "Highest" }]
+        },
+        {
+          "name": "Duration",
+          "types": [{ "title": "less than 1 H" }, { "title": "less than 2 H" }]
+        }
+      ],
+
+      
+    "data": [
+        {
+            "id": 1,
+            "product_id": 1,
+            "name": "jj",
+            "logo": "./assets/White 2.png",
+            "reviews_number": 6,
+            "image_url": "./assets/Rectangle 233.png",
+            "title": "ui design",
+            "price": "$100",
+            "description": "kjhgvjhgib",
+            "final_rating_from_reviews": 2,
+            "instructors": [
+                {
+                    "instructor_id": 8972,
+                    "name": "melvin"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "product_id": 2,
+            "name": "jj",
+            "logo": "./assets/White 2.png",
+            "reviews_number": 6,
+            "image_url": "./assets/Rectangle 233.png",
+            "title": "ui design",
+            "price": "$100",
+            "description": "kjhgvjhgib",
+            "final_rating_from_reviews": 2,
+            "instructors": [
+                {
+                    "instructor_id": 8972,
+                    "name": "melvin"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "product_id": 3,
+            "name": "jj",
+            "logo": "./assets/White 2.png",
+            "reviews_number": 6,
+            "image_url": "./assets/Rectangle 233.png",
+            "title": "ui design",
+            "price": "$100",
+            "description": "kjhgvjhgib",
+            "final_rating_from_reviews": 2,
+            "instructors": [
+                {
+                    "instructor_id": 8972,
+                    "name": "melvin"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "product_id": 4,
+            "name": "jj",
+            "logo": "./assets/White 2.png",
+            "reviews_number": 6,
+            "image_url": "./assets/Rectangle 233.png",
+            "title": "ui design",
+            "price": "$100",
+            "description": "kjhgvjhgib",
+            "final_rating_from_reviews": 2,
+            "instructors": [
+                {
+                    "instructor_id": 8972,
+                    "name": "melvin"
+                }
+            ]
+        }
+    ],
+    "itemsFav": [],
+    "courses": [
+        {
+            "product_id": 224,
+            "max_quantity": 30,
+            "views": 0,
+            "is_price_hidden": false,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "original_price": 530.0,
+            "original_price_currency": "EGP",
+            "price_after_discount": 50.0,
+            "purchased_users_number": 0,
+            "remaining_seats": 30,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 291,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Test Course1",
+                "description": "dhsajdhsajlk",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "08/02/2023",
+                "end_date": "09/02/2023",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [],
+                "first_section_and_session_ids": {
+                    "first_section_id": 338,
+                    "first_course_session_id": 2210
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/291",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/291",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 288,
+            "original_price":6540.0,
+            "max_quantity": 30,
+            "views": 2,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 25,
+            "remaining_seats": 5,
+            "limited_seats": true,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 285,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Future Language School (Jr.6)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "11/12/2022",
+                "end_date": "12/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 8972,
+                        "name": "Magiie Ginidy ",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "magie@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3670,
+                        "name": "Nouran Mohamed El Azab Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "nouran@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3682,
+                        "name": "Sara Mamdouh",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "sara@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10837,
+                        "name": "FLS",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "fls@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 328,
+                    "first_course_session_id": 2162
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/285",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/285",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 287,
+            "original_price":840.0,
+            "max_quantity": 30,
+            "views": 0,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 28,
+            "remaining_seats": 2,
+            "limited_seats": true,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 284,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Future Language School (Jr.5)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "11/12/2022",
+                "end_date": "12/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 8972,
+                        "name": "Magiie Ginidy ",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "magie@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3670,
+                        "name": "Nouran Mohamed El Azab Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "nouran@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3682,
+                        "name": "Sara Mamdouh",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "sara@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10837,
+                        "name": "FLS",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "fls@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 327,
+                    "first_course_session_id": 2154
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/284",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/284",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 283,
+            "original_price":990.0,
+
+            "max_quantity": 30,
+            "views": 85,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 3,
+            "remaining_seats": 27,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 280,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Test Course",
+                "description": "Test",
+                "image_url": "https://pyramakerz.s3.eu-central-1.amazonaws.com/production/L8yrb_30XLBMoi4HQEFKLQ_1670847814_.jpg",
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "12/12/2022",
+                "end_date": "13/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 10827,
+                        "name": "john",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "john@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 334,
+                    "first_course_session_id": 2202
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/280",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/280",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 279,
+            "original_price":150.0,
+
+            "max_quantity": 30,
+            "views": 0,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 21,
+            "remaining_seats": 9,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 276,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Innovation International  (G8 Isaac Newton)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "06/12/2022",
+                "end_date": "07/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 3673,
+                        "name": "Yasmeen Hasan Hasan",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "yasmeen@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3676,
+                        "name": "Essra Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "essra@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3691,
+                        "name": "Ghada Ahmed Aref",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "ghada@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3692,
+                        "name": "Maryam El Sayed Mahmoud",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "maryam@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10838,
+                        "name": "Innovation",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "inno@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10983,
+                        "name": "Rania Hamada",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "rania@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 320,
+                    "first_course_session_id": 2112
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/276",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/276",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "original_price":300.0,
+
+            "product_id": 278,
+            "max_quantity": 30,
+            "views": 1,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 20,
+            "remaining_seats": 10,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 275,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Innovation International  (G8 Charles Darwinn)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "06/12/2022",
+                "end_date": "07/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 3673,
+                        "name": "Yasmeen Hasan Hasan",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "yasmeen@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3676,
+                        "name": "Essra Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "essra@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3691,
+                        "name": "Ghada Ahmed Aref",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "ghada@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3692,
+                        "name": "Maryam El Sayed Mahmoud",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "maryam@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10838,
+                        "name": "Innovation",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "inno@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10983,
+                        "name": "Rania Hamada",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "rania@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 319,
+                    "first_course_session_id": 2108
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/275",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/275",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 277,
+            "original_price":200.0,
+
+            "max_quantity": 30,
+            "views": 1,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 21,
+            "remaining_seats": 9,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 274,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Innovation International  (G8 Albert Einsteinn)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "06/12/2022",
+                "end_date": "07/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 3673,
+                        "name": "Yasmeen Hasan Hasan",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "yasmeen@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3676,
+                        "name": "Essra Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "essra@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3691,
+                        "name": "Ghada Ahmed Aref",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "ghada@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3692,
+                        "name": "Maryam El Sayed Mahmoud",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "maryam@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10838,
+                        "name": "Innovation",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "inno@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10983,
+                        "name": "Rania Hamada",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "rania@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 318,
+                    "first_course_session_id": 2104
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/274",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/274",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 276,
+            "original_price":600.0,
+
+            "max_quantity": 30,
+            "views": 0,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 18,
+            "remaining_seats": 12,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 273,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Innovation International  (G7 Shakespeare)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "06/12/2022",
+                "end_date": "07/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 3673,
+                        "name": "Yasmeen Hasan Hasan",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "yasmeen@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3676,
+                        "name": "Essra Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "essra@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3691,
+                        "name": "Ghada Ahmed Aref",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "ghada@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3692,
+                        "name": "Maryam El Sayed Mahmoud",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "maryam@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10838,
+                        "name": "Innovation",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "inno@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10983,
+                        "name": "Rania Hamada",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "rania@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 316,
+                    "first_course_session_id": 2091
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/273",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/273",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 275,
+            "max_quantity": 30,
+            "original_price":90.0,
+
+            "views": 2,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 19,
+            "remaining_seats": 11,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 272,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Innovation International  (G7 Charles Dickens)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "06/12/2022",
+                "end_date": "07/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 3673,
+                        "name": "Yasmeen Hasan Hasan",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "yasmeen@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3676,
+                        "name": "Essra Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "essra@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3691,
+                        "name": "Ghada Ahmed Aref",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "ghada@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3692,
+                        "name": "Maryam El Sayed Mahmoud",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "maryam@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10838,
+                        "name": "Innovation",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "inno@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10983,
+                        "name": "Rania Hamada",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "rania@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 315,
+                    "first_course_session_id": 2082
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/272",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/272",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        },
+        {
+            "product_id": 274,
+            "original_price":100.0,
+
+            "max_quantity": 30,
+            "views": 0,
+            "is_price_hidden": true,
+            "classification": "course",
+            "discount_percentage": 0.0,
+            "purchased_users_number": 19,
+            "remaining_seats": 11,
+            "limited_seats": false,
+            "purchased_users_profile_pictures_urls": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "reviews_number": 0,
+            "final_rating_from_reviews": 0,
+            "classified_product": {
+                "course_id": 271,
+                "subject": null,
+                "subject_id": null,
+                "school_class": null,
+                "title": "Innovation International  (G7 Agathachristie)",
+                "description": "..",
+                "image_url": null,
+                "hosted_video": null,
+                "video_url": null,
+                "transcoded_video_url": null,
+                "start_date": "06/12/2022",
+                "end_date": "07/12/2022",
+                "level": {
+                    "value": "beginner",
+                    "translation": "Beginner"
+                },
+                "place": {
+                    "value": "online",
+                    "translation": "Online"
+                },
+                "instructors": [
+                    {
+                        "instructor_id": 3673,
+                        "name": "Yasmeen Hasan Hasan",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "yasmeen@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3676,
+                        "name": "Essra Mohamed",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "essra@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3691,
+                        "name": "Ghada Ahmed Aref",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "ghada@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 3692,
+                        "name": "Maryam El Sayed Mahmoud",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "maryam@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10838,
+                        "name": "Innovation",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "inno@pyramakerz.com",
+                        "bio": ""
+                    },
+                    {
+                        "instructor_id": 10983,
+                        "name": "Rania Hamada",
+                        "profile_picture_url": null,
+                        "job_title": "Teacher",
+                        "email": "rania@pyramakerz.com",
+                        "bio": ""
+                    }
+                ],
+                "first_section_and_session_ids": {
+                    "first_section_id": 314,
+                    "first_course_session_id": 2073
+                },
+                "redirect_urls": {
+                    "manage_course": "http://pyramakerz.com/managed-courses/271",
+                    "managed_courses": "http://pyramakerz.com/managed-courses",
+                    "courses_show_admin": "http://api.pyramakerz.com/admin/courses/271",
+                    "courses_index_admin": "http://api.pyramakerz.com/admin/courses",
+                    "add_course_admin": "http://api.pyramakerz.com/admin/courses/new"
+                }
+            }
+        }
+    ]
+}
